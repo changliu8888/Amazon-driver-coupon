@@ -8,6 +8,6 @@ In this repository there are the following files
 
 Dataframes:
 
-Main dataframe name: df
-Dataframe for coupons from Bar: dfbar
+Main dataframe name: df\n
+Dataframe for coupons from Bar: dfbar\n
 Data frame converted from df that include income as number: dfnew
